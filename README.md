@@ -51,8 +51,8 @@ Edit these constants in `mGemini.bas` to customize behavior:
 | `GEMINI_INPUT_MODE` | `both`, `selection`, `inputbox`, `auto` | How prompts are collected |
 | `GEMINI_OUTPUT_MODE` | `lines`, `single` | How responses are displayed |
 
-## Video Tutorial (coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/_107AmTE21c/0.jpg)](https://youtu.be/_107AmTE21c)
 
 
 ## 🤓 Check Out My Excel Add-ins
