@@ -54,11 +54,11 @@ Edit these constants in `mGemini.bas` to customize behavior:
 ## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/_107AmTE21c/0.jpg)](https://youtu.be/_107AmTE21c)
 
+## Learn Excel Automation with Python
+If this repo helped you, my [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) teaches the full workflow from zero: Python for Excel users, xlwings, pandas and real projects.
 
-## More Solutions
-Explore my tools and templates for Excel, automation, and more.
+Also check out my other [tools and templates](https://pythonandvba.com/solutions).
 
-**[View all solutions](https://pythonandvba.com/solutions)**
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
